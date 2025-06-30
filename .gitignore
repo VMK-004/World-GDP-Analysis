@@ -1,0 +1,13 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS hidden files
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp

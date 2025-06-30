@@ -8,7 +8,7 @@ This project explores how different socioeconomic factors such as population, li
 
 ## 📁 Project Files
 
-- 📄 [Full Report (PDF)](./Data_Analysis_Project_on_World_Countries)  
+- 📄 [Full Report (PDF)](./Data_Analysis_Project_on_World_Countries.pdf)  
   A complete documentation of the project, including data exploration, preprocessing, modeling, results, and conclusion.
 
 - 📘 [Jupyter Notebook](./World_Countries_GDP_Analysis.ipynb)  
